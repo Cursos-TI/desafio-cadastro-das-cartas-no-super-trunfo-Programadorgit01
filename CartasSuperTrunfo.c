@@ -13,6 +13,9 @@
         printf("Digite o estado: \n");
         scanf("%s", &estado);
         
+        printf("digite a cidade: \n");
+        scanf("%s",&cidade);
+        
 
 
 
