@@ -14,8 +14,13 @@
         scanf("%s", &estado);
         
         printf("digite a cidade: \n");
-        scanf("%s",&cidade);
-        
+        scanf("%s", &cidade);
+
+        printf("digite o codigo: \n");
+        scanf("%s, &codigo");
+
+        printf(" ")
+
 
 
 
